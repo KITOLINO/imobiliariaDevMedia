@@ -1,0 +1,159 @@
+body{ 
+    background-color: white;
+    margin: 0;
+}
+
+.topo-da-pagina{
+background-color:rgb(146, 220, 250);
+text-align: center;
+font-family: tahoma;   
+padding-top:30px;
+padding-bottom: 30px;
+}
+
+.img-topo{
+    width: 150px;
+}
+
+a{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: solid #1d1d1d;
+    text-decoration: none;
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 130px;
+    margin-right: 10px;
+}
+
+.img1{
+text-align: center;
+padding-top: 0px;
+padding-bottom: 30px;
+margin-left: 400px;
+margin-top: 50px;
+
+}
+
+.titulo{
+font-family: tahoma;
+color:#1d1d1d;
+margin-bottom: 5px;
+text-align: center;
+}
+
+.sub{
+color:#1c81c0;
+font-weight: bold;    
+}
+
+.sub2{
+ 
+color:white;
+font-size: 28px;
+line-height: 42px;
+}
+
+.img2{
+text-align: center;
+padding-top:30px;
+padding-bottom: 30px;
+margin-left: px;
+width: 450px;
+}
+
+#sobre{
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+#servicos{
+background-color: #1c81c0;
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+#corretores{
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;    
+}
+
+#contato{
+text-align: center;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+
+p {
+    margin:10px auto;
+    width: 980px;
+    text-align:justify;
+    font-size: 18px;
+    line-height: 28px;
+}
+
+span{
+    font-weight: bold;
+}
+
+.amarelo{
+    color:#fff81b;
+    font-weight: bold;
+
+}
+
+.azul{
+    color: #1d80c1;
+    font-weight: bold;
+}
+
+.paragrafo-p{
+color:white;
+line-height: 42px;
+font-size:22px;
+text-align: center;
+width: 700px;
+}
+
+ ul{
+color:white;
+line-height: 40px;
+margin: 40px auto;
+width: 135px;
+font-size: 22px;
+}
+
+#contato{
+background-color:#1d80c1;
+}
+.ultimo-p{
+color:white;
+background-color: black;
+padding: 15px;
+margin-top: 30px; 
+margin-bottom: 30px;
+}
+
+.lista2{
+    margin: 40px auto;
+    width: 210px;
+}
+
+.lista2 li{
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+    background-color: white;
+    color:#1d80c1;
+    padding-top:2px;
+    padding-bottom: 2px;
+    padding-left: 5px ;
+    padding-right: 5px; 
+    border-radius: 5px;
+}
